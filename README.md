@@ -1,5 +1,4 @@
 # Cloud Data Warehouse: S3 and Redshift
-
 ##### [Israel Mendes](israelmendes.com.br)
 
 Creating a Database and using an ETL in Python. Moving data from AWS S3 to Redshift.
